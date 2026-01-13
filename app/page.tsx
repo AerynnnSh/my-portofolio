@@ -212,7 +212,8 @@ export default function Home() {
 
           <div className="flex items-center gap-6 mb-16">
             <a
-              href="/cv.pdf"
+              href="/Elian Putera Tanuwijaya_CV.pdf"
+              download="Elian Putera Tanuwijaya_CV.pdf"
               className="bg-white text-black px-5 py-2 text-xs font-bold hover:bg-zinc-200 hover:scale-105 active:scale-95 transition-all duration-200 flex items-center gap-2 rounded-sm"
             >
               Download CV <ArrowRight size={14} />
@@ -221,7 +222,7 @@ export default function Home() {
               href="#projects"
               className="text-zinc-400 hover:text-white transition flex items-center gap-2 text-xs group"
             >
-              Scroll Down{" "}
+              View Projects{" "}
               <ArrowRight
                 size={14}
                 className="rotate-90 group-hover:translate-y-1 transition-transform"
