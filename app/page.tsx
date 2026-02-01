@@ -183,8 +183,8 @@ export default function Home() {
       image: "/algodesign.png",
       icons: [<SiVercel key="vercel" />, <FaGithub key="github" />],
       links: {
-        demo: "#",
-        github: "#",
+        demo: "https://algo-design.vercel.app/",
+        github: "https://github.com/AerynnnSh/AlgoDesign-Project",
       },
     },
     {
@@ -368,7 +368,7 @@ export default function Home() {
                 Links
               </p>
               <a
-                href="#"
+                href="https://www.linkedin.com/in/elian-putera-tanuwijaya-874490274/"
                 className="text-zinc-300 text-xs hover:text-white transition flex items-center gap-1 h-5 hover:underline decoration-zinc-600 underline-offset-4"
               >
                 LinkedIn <LinkIcon size={10} />
@@ -574,7 +574,11 @@ export default function Home() {
                 val: "@elianputera16",
                 url: "https://instagram.com/elianputera16",
               },
-              { label: "LinkedIn", val: "Elian Putera Tanuwijaya", url: "#" },
+              {
+                label: "LinkedIn",
+                val: "Elian Putera Tanuwijaya",
+                url: "https://www.linkedin.com/in/elian-putera-tanuwijaya-874490274/",
+              },
               {
                 label: "GitHub",
                 val: "AerynnnSh",
