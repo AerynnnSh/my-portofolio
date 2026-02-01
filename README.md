@@ -1,36 +1,41 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Elian Putera Tanuwijaya - Personal Portfolio
 
-## Getting Started
+![Portfolio Preview](public/profile.jpg)
 
-First, run the development server:
+This is the repository for my personal portfolio website, designed to showcase my projects, skills in UI/UX Design, and Web Development journey. Built with performance and modern aesthetics in mind using the latest web technologies.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🚀 Tech Stack
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+This project is built using the following technologies:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Framework:** [Next.js 16](https://nextjs.org/) (App Router)
+- **Language:** [TypeScript](https://www.typescriptlang.org/)
+- **Styling:** [Tailwind CSS](https://tailwindcss.com/)
+- **Icons:** [Lucide React](https://lucide.dev/) & [React Icons](https://react-icons.github.io/react-icons/)
+- **Font:** Geist Sans & Geist Mono
+- **Deployment:** [Vercel](https://vercel.com/)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## ✨ Key Features
 
-## Learn More
+- **Responsive Design:** Fully responsive layout optimized for desktop and mobile devices.
+- **Scroll Animations:** Custom intersection observers for reveal animations and active navigation states.
+- **Real-time Clock:** Displays current local time (Asia/Jakarta timezone).
+- **Infinite Marquee:** Smooth infinite scrolling animation for image galleries.
+- **Project Showcase:** Detailed cards for projects like *DomoSync*, *WebSpire*, and *C4C*.
+- **Downloadable CV:** Direct integration for resume download.
 
-To learn more about Next.js, take a look at the following resources:
+## 📬 Contact
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Feel free to reach out if you want to collaborate or just say hi!
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Name: Elian Putera Tanuwijaya
 
-## Deploy on Vercel
+Email: elianputera@gmail.com
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Instagram: @elianputera16
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Location: Surabaya, East Java, Indonesia
+
+##
+
+© 2026 Elian Putera Tanuwijaya. All Rights Reserved.
