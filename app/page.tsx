@@ -68,7 +68,7 @@ export default function Home() {
     const navOptions = {
       root: null,
       rootMargin: "0px",
-      threshold: 0.5,
+      threshold: 0.25,
     };
 
     const navObserver = new IntersectionObserver((entries) => {
