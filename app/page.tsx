@@ -314,7 +314,7 @@ export default function Home() {
           <div className="flex items-center gap-2 text-xs mb-6 font-medium tracking-wide">
             <span className="text-orange-500 text-sm animate-pulse">✱</span>
             <span className="text-zinc-500">
-              Actively looking for internship opportunities!
+              Information Systems Student · UI/UX Designer & Web Developer
             </span>
           </div>
 
@@ -325,9 +325,7 @@ export default function Home() {
           </h2>
 
           <p className="text-zinc-500 text-xs md:text-[13px] leading-relaxed max-w-xl mb-10">
-            I am a 6th-semester Information Systems student passionate about
-            designing clean user interfaces and building responsive web
-            applications.
+            I am a 7th-semester Information Systems student at UPN "Veteran" Jawa Timur, focused on designing user-centered interfaces and developing functional web applications.
           </p>
 
           <div className="flex items-center gap-6 mb-16">
